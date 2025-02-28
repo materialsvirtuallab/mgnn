@@ -5,7 +5,7 @@ pymatgen==2024.11.13
 ase==3.24.0
 pydantic==2.10.6
 numpy==1.26.4
-torchdata==0.7.1
+torchdata==0.11.0
 boto3==1.37.3
 sympy==1.13.3
 
