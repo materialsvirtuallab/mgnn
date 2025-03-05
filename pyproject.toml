@@ -55,7 +55,7 @@ dependencies = [
     "lightning<=2.5.0.post0",
     "torch<=2.2.1",
     "pydantic",
-    "torchdata<=0.7.1",
+    "torchdata<=0.11.0",
     "boto3",
     "numpy<2.0.0"
 ]
